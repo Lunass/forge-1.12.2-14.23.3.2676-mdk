@@ -1,0 +1,7 @@
+item.hammer.name=Hammer
+item.bellows.name=Bellows
+item.washed_iron.name=Washed Iron
+//blocks
+tile.anvil_block.name=Better Anvil
+tile.ore_washer.name=Ore Washer
+tile.forge_block.name=Forge
